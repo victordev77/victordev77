@@ -43,7 +43,7 @@ Developed the web application for the project using HTML, CSS and JavaScript, wh
 
 ### Tools
 
-[![My Skills](https://skillicons.dev/icons?i=git,docker,linux,vscode,ide)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=git,docker,linux,vscode,idea)](https://skillicons.dev)
 
 ### Cloud & Deploy
 
