@@ -1,29 +1,57 @@
 <h1 align="center">Victor Hugo</h1>
 
 <p align="center">
-  <strong>Software Engineering - Full Stack Developer</strong>
+  <strong>Software Development Student - Aspiring Full Stack Developer</strong>
 </p>
 
 ## About 
 
-Software Engineering student at the University of Lisbon (ULisboa), focused on building scalable and well-structured software solutions. Passionate about software engineering, I enjoy designing complete applications across backend, frontend, databases and deployment, with an emphasis on clean architecture and maintainable code.
+I'm a programming student, focused on software engineering and full stack development.
 
-I enjoy working on ambitious projects and taking responsibility for turning ideas into real solutions. Through innovation competitions such as the SEBRAE Hackathons 2026 and Ceará Científico 2026, I developed leadership, teamwork and problem-solving skills while building technology with real impact.
+I build software, explore new technologies and turn ideas into functional applications. My experience includes web development, scientific research and technology-driven entrepreneurship.
 
+Beyond coding, I've led teams and developed projects recognized in regional innovation and scientific competitions.
 ## Achievements & Leadership
 
-### Circuito Inovação Região Norte — SEBRAE Hackathons 2026
+### 🏆 Hackathon Winner — SEBRAE 2026
+**Circuito Inovação Região Norte | Team Lead & Lead Developer**
 
-**Winner · Team Lead · Lead Developer**  
-*Irauçuba, Ceará, Brazil*
+Led the development of a renewable energy startup concept, contributing to the technical implementation, product strategy and presentation of the solution.
 
-Led my team in developing a startup focused on renewable energy. I was responsible for the technical direction of the project and served as the lead developer throughout the competition.
+### 🥇 Regional Winner — Ceará Científico 2026
+**Scientific Research & Technology | Team Lead & Web Developer**
 
-### Simulador Hídrico Cidadão — Ceará Científico 2026
+Won the regional stage of Ceará Científico 2026 with *Simulador Hídrico Cidadão*, a scientific project focused on reducing water evaporation in reservoirs through mathematical modeling and interactive simulations.
 
-**Team Lead · Application Developer · Project Presenter**
+Developed the project's web application using HTML, CSS and JavaScript.
 
-Developed the web application for the project using HTML, CSS and JavaScript, while also presenting the solution during the event.
+### 🚀 State-Level Qualifier — Desafio Liga Jovem 2026
+**SEBRAE | EcoVolts | Technology & Entrepreneurship**
+
+Qualified for the state stage of Desafio Liga Jovem 2026 with *EcoVolts*, a project focused on making solar energy more accessible through modular solutions, financial alternatives and a digital platform for energy savings simulations.
+
+Contributed to the development of the project's digital prototype and business model.
+
+## Featured Projects
+
+### Simulador Hídrico Cidadão
+**Scientific Computing | Environmental Research | Web Development**
+
+Interactive web application that combines mathematical modeling and data visualization to simulate water evaporation mitigation strategies in reservoirs.
+
+**Technologies:** HTML, CSS, JavaScript, Chart.js, Three.js
+
+[View Repository](https://github.com/victordev77/simulador-hidrico-cidadao)
+
+### EcoVolts
+**Renewable Energy | Entrepreneurship | Web Development**
+
+Digital platform designed to make solar energy more accessible through modular solutions, financial simulations and alternative payment models.
+
+**Project:** Desafio Liga Jovem 2026 — State-Level Qualifier
+
+[View Repository](https://github.io/victordev77/ecovolts)
+
 ## 💻 Tech Stack
 
 ### Languages
