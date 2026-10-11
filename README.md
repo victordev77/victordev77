@@ -50,7 +50,7 @@ Digital platform designed to make solar energy more accessible through modular s
 
 **Project:** Desafio Liga Jovem 2026 — State-Level Qualifier
 
-[View Repository](https://github.io/victordev77/ecovolts)
+[View Repository](https://github.com/victordev77/ecovolts)
 
 ## 💻 Tech Stack
 
